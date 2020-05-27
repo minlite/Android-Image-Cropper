@@ -22,6 +22,8 @@ ext {
     buildToolsVersion = '29.0.2'
     androidXLibraryVersion = '1.0.0'
 
+    group = 'com.theartofdev.edmodo'
+
     PUBLISH_GROUP_ID = 'com.theartofdev.edmodo'
     PUBLISH_ARTIFACT_ID = 'android-image-cropper'
     PUBLISH_VERSION = '2.8.0'
